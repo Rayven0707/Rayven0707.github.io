@@ -1,0 +1,51 @@
+<style>
+
+/* unvisited */
+a:link {
+color: red;
+}
+/* visited */
+a:visited {
+color: green;
+}
+/* mouse over link */
+a:hover {
+color: hotpink;
+}
+/* selected link */
+a:active {
+color: blue
+}
+
+a:link {
+text-decoration: none;
+}
+a:visited {
+text-decoration: none;
+}
+a:hover{
+text-decoration: none;
+}
+a:active{
+text-decoration: underline;
+}
+
+a:link{
+background-color: yellow;
+}
+a:visited{
+background-color; cyan;
+}
+a:hover{
+background-color; lightgreen;
+}
+a:active{
+background-color; hotpink
+}
+
+
+
+</style>
+
+<h1>First Button</h1>
+<a href="default.asp" target="_blank">Button 1 </a>
