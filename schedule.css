@@ -1,0 +1,45 @@
+h3{
+font-family:georgia; color:red;
+}
+table{ 
+border: 2px solid black;
+}
+th, td {
+  border-bottom: 1px solid #ddd;
+}
+#gned12{
+	background-color:#FF7F50;
+	text-align:center;
+}
+#dcit23{
+	background-color:#6495ED;
+	text-align:center;
+}
+#itec50{
+	background-color:#5F9EA0;
+	text-align:center;
+}
+#fitt2{
+	background-color:#DEB887;
+	text-align:center;
+}
+#gned06{
+	background-color:#B0C4DE;
+	text-align:center;
+}
+#gned03{
+	background-color:#F08080;
+	text-align:center;
+}
+#dcit21{
+	background-color:#BDB76B;
+	text-align:center;
+}
+#dcit22{
+	background-color:#E9967A;
+	text-align:center;
+}
+#gned01{
+	background-color:#8FBC8F;
+	text-align:center;
+}
